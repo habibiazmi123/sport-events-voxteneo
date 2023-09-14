@@ -31,4 +31,4 @@ Installation is simple. Just like your ordinary Laravel app.
 6. `npm install`
 7. `npm run dev`
 8. `php artisan serve`
-8. Open Browser`http://localhost:8000`
+8. Open your browser`http://localhost:8000`
